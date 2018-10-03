@@ -1,0 +1,37 @@
+[
+	{
+		"username": "NoobTW",
+        "description": ""
+		"blog": "https://noob.tw/rss/"
+	},
+	{
+		"username": "CykuTW",
+        "description": ""
+		"blog": "https://cyku.tw/rss/"
+	},
+	{
+		"username": "iGeneKuo",
+        "description": "Co-Orgranizer, Cloud Native Taiwan User Group",
+		"blog": "https://igene.tw/feed/"
+	},
+	{
+		"username": "s5048218",
+        "description": "",
+		"blog": "https://ntpu.org/category/news/feed"
+	},
+	{
+		"username": "wuyiulin",
+        "description": "",
+		"blog": "http://feeds.feedburner.com/BensHeaven"
+	},
+	{
+		"username": "g8Man",
+        "description": "",
+		"blog": "https://golphoop.dawn.tw/?feed=rss2"
+	},
+	{
+		"username": "gcd3lt4",
+        "description": "",
+		"blog": "https://l34p.tk/rss/"
+	}
+]
